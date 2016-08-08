@@ -1,0 +1,25 @@
+_repo: Penny-Plain_12768
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglas, O.
+    alias: Buchan, Anna
+    birthdate: 1877
+    deathdate: 1948
+    gutenberg_agent_id: '3741'
+    url: http://www.gutenberg.org/2009/agents/3741
+description: ''
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12768'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Penny Plain
+url: http://www.gutenberg.org/ebooks/12768
